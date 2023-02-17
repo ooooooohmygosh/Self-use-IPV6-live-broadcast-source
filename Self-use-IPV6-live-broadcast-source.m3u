@@ -213,7 +213,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3
 http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="数字",足球高清
 https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="数字",tvg-id="广东体育" tvg-name="广
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="数字",广东体育
 http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="数字",新视觉
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
@@ -239,9 +239,9 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="国际",凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="国际",tvg-id="翡翠台" tvg-name="翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="国际",翡翠台
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="国际",tvg-id="明珠台" tvg-name="明珠
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="国际",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
